@@ -896,6 +896,16 @@ a:visited {
   background-image: url("../assets/img/minh-nguyen.jpg");
 }
 
+#jennifer-lavoie-cover{
+  background-image: url("../assets/img/jennifer-lavoie-cover.jpg");
+}
+
+#jennifer-lavoie-card{
+  background-image: url("../assets/img/jennifer-lavoie.jpg");
+}
+
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
